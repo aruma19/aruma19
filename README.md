@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-almas-farros-dhiyaulhaq/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:EMAIL_LU@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:muhammadalmasfarrosd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=aruma19&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" />
 </p>
 
@@ -30,7 +30,7 @@ class AboutMe:
     motto    = "just keep smewing 😎"
 ```
 
-- 🔭 Currently working on **[NAMA PROJECT TERBARU LU]**
+- 🔭 Currently working on **Demand Prediction**
 - 🌱 Learning **MLOps & building AI agents**
 - 💬 Ask me about **Python, SQL, ML, data visualization**
 - 🤝 Open to **internships, freelance & collaboration** in data / AI
@@ -71,7 +71,7 @@ class AboutMe:
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-> ✏️ Hapus badge yang belum lu kuasai, tambah yang belum ada. Daftar ikon: https://skillicons.dev
+> ✏️ Daftar ikon: https://skillicons.dev
 
 ---
 
